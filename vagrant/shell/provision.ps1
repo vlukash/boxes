@@ -38,5 +38,6 @@ cinst 7zip.install -y
 cinst git.install -y
 cinst notepadplusplus.install -y
 cinst conemu -y
+cinst poshgit -y
 
-#cinst visualstudio2015community -y
+cinst visualstudio2015community -y
